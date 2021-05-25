@@ -1,0 +1,2 @@
+source:
+Generated with the product of "Making Anime Faces With StyleGAN" at https://www.gwern.net/Faces
